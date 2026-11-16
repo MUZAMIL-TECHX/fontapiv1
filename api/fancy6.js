@@ -1,4 +1,4 @@
-const respond = require('./_helper');
+const respond = require('./_helper.js');
 const U = '🅰🅱🅲🅳🅴🅵🅶🅷🅸🅹🅺🅻🅼🅽🅾🅿🆀🆁🆂🆃🆄🆅🆆🆇🆈🆉';
 module.exports = (req, res) => {
   const text = (req.query.txt || '').toString();
