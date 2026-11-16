@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/fancy1",  "destination": "/api/fancy1" },
+    { "source": "/fancy2",  "destination": "/api/fancy2" },
+    { "source": "/fancy3",  "destination": "/api/fancy3" },
+    { "source": "/fancy4",  "destination": "/api/fancy4" },
+    { "source": "/fancy5",  "destination": "/api/fancy5" },
+    { "source": "/fancy6",  "destination": "/api/fancy6" },
+    { "source": "/fancy7",  "destination": "/api/fancy7" },
+    { "source": "/fancy8",  "destination": "/api/fancy8" },
+    { "source": "/fancy9",  "destination": "/api/fancy9" },
+    { "source": "/fancy10", "destination": "/api/fancy10" }
+  ]
+}
