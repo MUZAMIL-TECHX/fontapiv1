@@ -1,4 +1,4 @@
-const respond = require('./_helper');
+const respond = require('./_helper.js');
 module.exports = (req, res) => {
   const text = (req.query.txt || '').toString();
   const out = [...text].map(ch => {
